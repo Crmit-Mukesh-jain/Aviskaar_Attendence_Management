@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select a List View Employee Leave</name>
+   <tag></tag>
+   <elementGuidId>af45864d-4e73-4198-be57-719b1f8c2869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_reset.slds-button--reset.slds-button_icon.slds-button_icon-small.slds-button_icon-container.downIcon.slds-m-bottom_xx-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Applied Leave'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Select a List View: Employee Leave&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>872a89ec-a9cd-45cc-9062-23881545df26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>647f8ca2-d62a-4bf2-8a67-cf0178e85df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3150ef11-534e-430e-9668-b1bcb61909c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select a List View: Employee Leave</value>
+      <webElementGuid>01fc7d8d-0781-482c-8472-20db5fd86cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_reset slds-button--reset slds-button_icon slds-button_icon-small slds-button_icon-container downIcon slds-m-bottom_xx-small</value>
+      <webElementGuid>031b91fa-a8d0-465a-93bd-8cf74b0d9960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>53:510;a</value>
+      <webElementGuid>7c9b2e80-dd4e-4b1c-9c02-503b698b8d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a List View: Employee Leave</value>
+      <webElementGuid>adf6f0d2-bdf5-4021-8492-35c9a52f8be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-list-a5k&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;empty  test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager forceCommunityRecordListDesktop forceCommunityObjectHome&quot;]/div[@class=&quot;slds-page-header_object-home slds-page-header--object-home slds-page-header_joined slds-page-header_bleed slds-page-header slds-shrink-none test-headerRegion forceListViewManagerHeader&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-has-flexi-truncate firstHeaderRow&quot;]/div[@class=&quot;slds-media slds-no-space slds-grow&quot;]/div[@class=&quot;slds-media__body slds-align-middle&quot;]/div[@class=&quot;slds-grid slds-media__body&quot;]/div[@class=&quot;slds-truncate&quot;]/div[@class=&quot;triggerLink slds-type-focus slds-truncate slds-page-header__title slds-text-color_default slds-text-color--default triggerLinkFocused forceListViewPicker&quot;]/div[@class=&quot;triggerLinkTextAndIconWrapper slds-page-header__name&quot;]/div[@class=&quot;slds-page-header__name-switcher&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click lst-temp-slds-lineHeight&quot;]/button[@class=&quot;slds-button slds-button_reset slds-button--reset slds-button_icon slds-button_icon-small slds-button_icon-container downIcon slds-m-bottom_xx-small&quot;]</value>
+      <webElementGuid>a7be54b0-5ae4-4b53-be27-32f96ec4e644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Applied Leave'])[1]/following::button[1]</value>
+      <webElementGuid>b7bab2c8-43d4-4d0c-9adb-347f221c1302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Leave'])[2]/following::button[1]</value>
+      <webElementGuid>46065a1a-9935-4431-a5fe-7f70417c5395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this list view.'])[1]/preceding::button[1]</value>
+      <webElementGuid>43ddce00-5abe-4ddc-bef3-9295a300a0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>fe928c65-ae20-4ee9-8f16-a83f14a8775d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Select a List View: Employee Leave' and (text() = 'Select a List View: Employee Leave' or . = 'Select a List View: Employee Leave')]</value>
+      <webElementGuid>f87510db-3983-42d4-8bfa-6294cfa9a55e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

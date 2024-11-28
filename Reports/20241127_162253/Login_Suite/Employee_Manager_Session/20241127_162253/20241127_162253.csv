@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Employee_Manager_Session,Chrome 131.0.0.0,Employee_Manager_Session,,27-11-2024 16:23:01,27-11-2024 16:25:04,2m - 3.159s,PASSED
+,,,,,,,
+Test Cases/Login/Manager,Chrome 131.0.0.0,Manager Test Case,@login,27-11-2024 16:23:02,27-11-2024 16:25:04,2m - 2.679s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,27-11-2024 16:23:02,27-11-2024 16:23:17,14.386s,PASSED
+navigateToUrl(URL),Chrome 131.0.0.0,,,27-11-2024 16:23:17,27-11-2024 16:23:24,7.323s,PASSED
+"setText(findTestObject(""Page_Login/input_Refresh_2050""), Username)",Chrome 131.0.0.0,,,27-11-2024 16:23:24,27-11-2024 16:23:25,0.963s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_Username_2180""), Password)",Chrome 131.0.0.0,,,27-11-2024 16:23:25,27-11-2024 16:23:26,0.553s,PASSED
+"click(findTestObject(""Page_Login/span_Log in""))",Chrome 131.0.0.0,,,27-11-2024 16:23:26,27-11-2024 16:23:26,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_My Settings/a_All Leave""))",Chrome 131.0.0.0,,,27-11-2024 16:23:26,27-11-2024 16:23:38,12.172s,PASSED
+"click(findTestObject(""Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030""))",Chrome 131.0.0.0,,,27-11-2024 16:23:38,27-11-2024 16:23:41,2.647s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave/span_Pending Approvals""))",Chrome 131.0.0.0,,,27-11-2024 16:23:41,27-11-2024 16:24:13,31.813s,PASSED
+"click(findTestObject(""Page_Employee Leave/a_SortEmployee Leave Name""))",Chrome 131.0.0.0,,,27-11-2024 16:24:13,27-11-2024 16:24:14,1.318s,PASSED
+"click(findTestObject(""Page_Employee Leave/a_SortEmployee Leave Name""))",Chrome 131.0.0.0,,,27-11-2024 16:24:14,27-11-2024 16:24:15,1.187s,PASSED
+"click(findTestObject(""Get_Manager_First_Row_Id""))",Chrome 131.0.0.0,,,27-11-2024 16:24:15,27-11-2024 16:24:17,1.489s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave EL-4320/button_Reject""))",Chrome 131.0.0.0,,,27-11-2024 16:24:17,27-11-2024 16:24:20,2.927s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave EL-4320/button_OK""))",Chrome 131.0.0.0,,,27-11-2024 16:24:20,27-11-2024 16:24:21,1.152s,PASSED
+"navigateToUrl(""https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/employee-leave/a5kD10000005zOIIAY/el4320"")",Chrome 131.0.0.0,,,27-11-2024 16:24:21,27-11-2024 16:24:26,5.007s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave EL-4320/a_All Leave""))",Chrome 131.0.0.0,,,27-11-2024 16:24:26,27-11-2024 16:24:28,1.767s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030""))",Chrome 131.0.0.0,,,27-11-2024 16:24:28,27-11-2024 16:24:33,5.075s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave/span_Recently Viewed""))",Chrome 131.0.0.0,,,27-11-2024 16:24:33,27-11-2024 16:25:04,31.612s,PASSED

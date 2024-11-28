@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Employee Leave/span_Pending Approvals",
+      "brokenLocator": "//ul[@id\u003d\u0027virtualAutocompleteListbox_cdaf1c0cec65a\u0027]/li[7]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Selected\u0027])[6]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_171224/Login_Suite/Employee_Manager_Session/20241127_171224/Object Repository/Page_Employee Leave/span_Pending Approvals_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Employee Leave/span_Recently Viewed",
+      "brokenLocator": "//a[@id\u003d\u0027virtualAutoCompleteMenuOption_5a42783cc4a6d\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Selected\u0027])[7]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_171224/Login_Suite/Employee_Manager_Session/20241127_171224/Object Repository/Page_Employee Leave/span_Recently Viewed_neighbor.png"
+    }
+  ]
+}

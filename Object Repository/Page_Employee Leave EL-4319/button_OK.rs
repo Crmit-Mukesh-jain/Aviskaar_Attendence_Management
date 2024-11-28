@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>22a2f97e-7ac2-40e4-9ce6-ed04573f8ee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ceb28dd9-6394-46a8-8186-eade4849e1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_brand</value>
+      <webElementGuid>874713e3-034a-489e-b124-de8840eb44ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>44874ce9-9f59-4c50-85df-d05dd54107b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>d92c2b18-89eb-4142-923d-de41d1a61895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-detail-a5k&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded comm-content-header comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/c-emp-leave-approval[1]/section[@class=&quot;slds-modal slds-fade-in-open&quot;]/div[@class=&quot;slds-modal__container specificity&quot;]/footer[@class=&quot;slds-modal__footer&quot;]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
+      <webElementGuid>dd6cc88d-9a1b-4d5f-a016-01add4a5c336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>0119742f-411a-4525-b035-5889c017c3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[2]</value>
+      <webElementGuid>af8960ca-04a4-435c-991f-f19baa34b396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::button[1]</value>
+      <webElementGuid>f8bcc977-9291-4ac4-b488-fa66ee9e5524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related'])[1]/preceding::button[1]</value>
+      <webElementGuid>16596b82-5433-4815-ae03-ae80395d5d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>60d856f0-728d-4e78-8e84-ff9c1ebcde67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/button[2]</value>
+      <webElementGuid>10ac4799-cedd-4694-aace-4de24800037c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'OK' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>5b3c5a31-b7fa-44df-bb31-8533527cb27c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

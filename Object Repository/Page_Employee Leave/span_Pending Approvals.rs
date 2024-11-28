@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pending Approvals</name>
+   <tag></tag>
+   <elementGuidId>122647ce-a497-44ae-b873-0efc6efffccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='virtualAutocompleteListbox_cdaf1c0cec65a']/li[7]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Pending Approvals&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88ed940b-245a-4f6d-9be8-28237d645c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> virtualAutocompleteOptionText</value>
+      <webElementGuid>f00186a6-891e-48e9-8825-3031d1622f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>1646:0</value>
+      <webElementGuid>869162da-8891-4189-a182-ba0a956ad0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending Approvals</value>
+      <webElementGuid>8dd9b41d-b5c8-4612-b552-65798aad899b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;virtualAutocompleteListbox_cdaf1c0cec65a&quot;)/li[@class=&quot;slds-dropdown__item has-icon--left   forceVirtualAutocompleteMenuOption&quot;]/a[1]/span[@class=&quot;virtualAutocompleteOptionText&quot;]</value>
+      <webElementGuid>c0c6de28-09a0-4978-9289-e8684c8fe9b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='virtualAutocompleteListbox_cdaf1c0cec65a']/li[7]/a/span</value>
+      <webElementGuid>df52f08b-2af6-4d7b-8b1d-a91feea24b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[6]/following::span[1]</value>
+      <webElementGuid>d7612a96-cc37-4af7-ab5c-4aaf561f4282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Rejected Leave'])[1]/following::span[3]</value>
+      <webElementGuid>d7c56f7d-9b9f-465e-9583-efd5ce711c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[7]/preceding::span[1]</value>
+      <webElementGuid>40c51e12-74c9-429e-a11a-c6e240fb35ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[1]/preceding::span[3]</value>
+      <webElementGuid>ad1e8153-1b38-4f10-b594-47bf9ce59a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending Approvals']/parent::*</value>
+      <webElementGuid>74389015-497f-4584-a9bd-5c222b9b120a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>b3ab40b7-fb28-46a9-9360-48d330e3366d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pending Approvals' or . = 'Pending Approvals')]</value>
+      <webElementGuid>e0473e42-ad5c-4d64-b276-80d7875665ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

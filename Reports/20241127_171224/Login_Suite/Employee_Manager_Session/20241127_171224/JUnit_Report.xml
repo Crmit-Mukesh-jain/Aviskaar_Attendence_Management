@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Employee_Manager_Session" time="136.151" tests="1" failures="0" errors="0">
+   <testsuite name="Employee_Manager_Session" tests="1" failures="0" errors="0" time="136.151" skipped="0" timestamp="27-11-2024T17:12:31" hostname="mukesh.jain_crmit - host.docker.internal" id="Test Suites/Login_Suite/Employee_Manager_Session">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\mukesh.jain_crmit\\git\\Aviskaar_Attendence_Management\\Reports\\20241127_171224\\Login_Suite\\Employee_Manager_Session\\20241127_171224"/>
+         <property name="logFiles" value="C:\\Users\\mukesh.jain_crmit\\git\\Aviskaar_Attendence_Management\\Reports\\20241127_171224\\Login_Suite\\Employee_Manager_Session\\20241127_171224\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mukesh.jain_crmit - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.10.127"/>
+         <property name="sessionId" value="6e827ec749bc1b79b78057c1f29ebc48"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/Manager" time="135.717" classname="Test Cases/Login/Manager" status="PASSED">
+         <system-out><![CDATA[27-11-2024T17:12:31 - [TEST_CASE][PASSED] - Test Cases/Login/Manager: Test Cases/Login/Manager
+
+27-11-2024T17:12:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-11-2024T17:12:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-11-2024T17:12:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-11-2024T17:12:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-11-2024T17:12:46 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/' successfully
+
+27-11-2024T17:12:56 - [MESSAGE][PASSED] - Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/' successfully
+
+27-11-2024T17:12:56 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Login/input_Refresh_2050"), Username): Text 'manjunath.batti@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Refresh_2050'
+
+27-11-2024T17:12:57 - [MESSAGE][PASSED] - Text 'manjunath.batti@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Refresh_2050'
+
+27-11-2024T17:12:57 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Login/input_Username_2180"), Password): Text ****** has been set on object 'Object Repository/Page_Login/input_Username_2180'
+
+27-11-2024T17:12:58 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_Username_2180'
+
+27-11-2024T17:12:58 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/span_Log in")): Object: 'Object Repository/Page_Login/span_Log in' is clicked on
+
+27-11-2024T17:12:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/span_Log in' is clicked on
+
+27-11-2024T17:12:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My Settings/a_All Leave")): Object: 'Object Repository/Page_My Settings/a_All Leave' is clicked on
+
+27-11-2024T17:13:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Settings/a_All Leave' is clicked on
+
+27-11-2024T17:13:11 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030")): Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+27-11-2024T17:13:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+27-11-2024T17:13:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave/span_Pending Approvals")): Object: 'Object Repository/Page_Employee Leave/span_Pending Approvals' is clicked on
+
+27-11-2024T17:13:46 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //ul[@id='virtualAutocompleteListbox_cdaf1c0cec65a']/li[7]/a/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-11-2024T17:13:46 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Employee Leave/span_Pending Approvals'. Try using Self-healing.
+
+27-11-2024T17:13:46 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Employee Leave/span_Pending Approvals' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[6]/following::span[1]'.
+
+27-11-2024T17:13:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/span_Pending Approvals' is clicked on
+
+27-11-2024T17:13:46 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/a_SortEmployee Leave Name")): Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+27-11-2024T17:13:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+27-11-2024T17:13:48 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/a_SortEmployee Leave Name")): Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+27-11-2024T17:13:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+27-11-2024T17:13:49 - [TEST_STEP][PASSED] - click(findTestObject("Get_Manager_First_Row_Id")): Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+27-11-2024T17:13:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+27-11-2024T17:13:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave EL-4320/button_Reject")): Object: 'Object Repository/Page_Employee Leave EL-4320/button_Reject' is clicked on
+
+27-11-2024T17:13:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave EL-4320/button_Reject' is clicked on
+
+27-11-2024T17:13:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave EL-4320/button_OK")): Object: 'Object Repository/Page_Employee Leave EL-4320/button_OK' is clicked on
+
+27-11-2024T17:13:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave EL-4320/button_OK' is clicked on
+
+27-11-2024T17:13:59 - [TEST_STEP][PASSED] - navigateToUrl("https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/employee-leave/a5kD10000005zOIIAY/el4320"): Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/employee-leave/a5kD10000005zOIIAY/el4320' successfully
+
+27-11-2024T17:14:04 - [MESSAGE][PASSED] - Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/employee-leave/a5kD10000005zOIIAY/el4320' successfully
+
+27-11-2024T17:14:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave EL-4320/a_All Leave")): Object: 'Object Repository/Page_Employee Leave EL-4320/a_All Leave' is clicked on
+
+27-11-2024T17:14:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave EL-4320/a_All Leave' is clicked on
+
+27-11-2024T17:14:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030")): Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+27-11-2024T17:14:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+27-11-2024T17:14:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave/span_Recently Viewed")): Object: 'Object Repository/Page_Employee Leave/span_Recently Viewed' is clicked on
+
+27-11-2024T17:14:41 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='virtualAutoCompleteMenuOption_5a42783cc4a6d']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+27-11-2024T17:14:41 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Employee Leave/span_Recently Viewed'. Try using Self-healing.
+
+27-11-2024T17:14:41 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Employee Leave/span_Recently Viewed' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Selected'])[7]/following::span[1]'.
+
+27-11-2024T17:14:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/span_Recently Viewed' is clicked on
+
+27-11-2024T17:14:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+27-11-2024T17:14:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-11-2024T17:12:31 - [TEST_SUITE][PASSED] - Employee_Manager_Session: Test Cases/Login/Manager]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

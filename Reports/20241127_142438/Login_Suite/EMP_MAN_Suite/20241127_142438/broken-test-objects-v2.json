@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ApplyLeave/input__Start Date",
+      "brokenLocator": "//input[@id\u003d\u0027input-88\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//lightning-datepicker/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_142438/Login_Suite/EMP_MAN_Suite/20241127_142438/Object Repository/Page_ApplyLeave/input__Start Date_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ApplyLeave/span_27",
+      "brokenLocator": "//lightning-input[@id\u003d\u0027start-date-79\u0027]/lightning-datepicker/div/div/lightning-calendar/div/lightning-focus-trap/slot/table/tbody/tr[5]/td[4]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sat\u0027])[1]/following::span[32]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_142438/Login_Suite/EMP_MAN_Suite/20241127_142438/Object Repository/Page_ApplyLeave/span_27_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ApplyLeave/input__End Date",
+      "brokenLocator": "//input[@id\u003d\u0027input-92\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/lightning-input/lightning-datepicker/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_142438/Login_Suite/EMP_MAN_Suite/20241127_142438/Object Repository/Page_ApplyLeave/input__End Date_position.png"
+    }
+  ]
+}

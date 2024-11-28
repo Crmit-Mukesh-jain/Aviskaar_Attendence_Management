@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PrivilegeAnnual Leave</name>
+   <tag></tag>
+   <elementGuidId>8274329b-9cc2-488f-933d-4efee52dd145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-94-2-94 > span.slds-media__body > span.slds-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//lightning-base-combobox-item[@id='combobox-button-94-2-94']/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Privilege/Annual Leave&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd125f7a-755a-4fb8-b2d0-363f6f572191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>21329f19-8c77-4a92-9012-2dcd72ee7060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Privilege/Annual Leave</value>
+      <webElementGuid>d518059c-15de-404c-93a1-1ee9ca4e7d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privilege/Annual Leave</value>
+      <webElementGuid>461e6252-140e-4dee-8644-03d74747d21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-94-2-94&quot;)/span[@class=&quot;slds-media__body&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>e874f4dc-bab3-4e36-8087-bcd8392ebb9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[@id='combobox-button-94-2-94']/span[2]/span</value>
+      <webElementGuid>e1a2f091-f999-44d2-b887-583c99bf3da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celebration Leave'])[2]/following::span[3]</value>
+      <webElementGuid>6b9a694f-2215-478f-bfb5-a5c39876bef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casual Leave'])[2]/following::span[6]</value>
+      <webElementGuid>5dfee57b-c523-4568-85dd-1eca65e07204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sick Leave'])[2]/preceding::span[2]</value>
+      <webElementGuid>3f13cc34-44b8-4d99-bc54-7974cc525a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restricted Holiday'])[1]/preceding::span[5]</value>
+      <webElementGuid>26e02ae1-de86-4938-8363-e5f313b19190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Privilege/Annual Leave']/parent::*</value>
+      <webElementGuid>882128ff-44dc-4ee0-b877-be4a3f764f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-base-combobox-item[3]/span[2]/span</value>
+      <webElementGuid>49dd4fa7-f561-4d9c-9ce1-2f538a7d28e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Privilege/Annual Leave' and (text() = 'Privilege/Annual Leave' or . = 'Privilege/Annual Leave')]</value>
+      <webElementGuid>ad457267-66ab-4364-ad34-d513c85a9f2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

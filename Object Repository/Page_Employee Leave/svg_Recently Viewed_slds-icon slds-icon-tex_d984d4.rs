@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Recently Viewed_slds-icon slds-icon-tex_d984d4</name>
+   <tag></tag>
+   <elementGuidId>c2f5eea1-5bf7-47e7-afdc-7f5965c2f6b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.slds-icon.slds-icon-text-default.slds-icon_xx-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Select a List View: Employee Leave&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>232c47f9-cc82-4159-bb9d-37cd79666566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8d868d89-d8df-4d69-a931-eadd8be490e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bf4b4316-d139-4d99-b07d-7cc380738ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 520 520</value>
+      <webElementGuid>ba124fa8-7f1c-49c0-84b6-d6cd71c7a603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>16f8363a-c64c-4f7e-8cc4-f8ac568fff01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>down</value>
+      <webElementGuid>43bd03ba-b54e-4f99-a680-f934d67e955e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-icon slds-icon-text-default slds-icon_xx-small</value>
+      <webElementGuid>eb770009-37f4-4147-b66d-f8d7f228f71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;42:2059;a&quot;)/div[@class=&quot;triggerLinkTextAndIconWrapper slds-page-header__name&quot;]/div[@class=&quot;slds-page-header__name-switcher&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click lst-temp-slds-lineHeight&quot;]/button[@class=&quot;slds-button slds-button_reset slds-button--reset slds-button_icon slds-button_icon-small slds-button_icon-container downIcon slds-m-bottom_xx-small&quot;]/lightning-icon[@class=&quot;slds-icon-utility-down slds-icon_container&quot;]/span[1]/lightning-primitive-icon[1]/svg[@class=&quot;slds-icon slds-icon-text-default slds-icon_xx-small&quot;]</value>
+      <webElementGuid>6d622ced-ac5b-482e-b5e8-d71e01b2a92e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Viewed'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ff7f2d5b-7398-4b02-8acb-e36ca6d5af0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Leave'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9da61705-854d-4268-b9ba-092e141cd830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a List View: Employee Leave'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>05cc28d2-ea1a-4814-8fb2-d43a1e1adc21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin this list view.'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>624a364a-b89a-4587-8802-5f697d2d675a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

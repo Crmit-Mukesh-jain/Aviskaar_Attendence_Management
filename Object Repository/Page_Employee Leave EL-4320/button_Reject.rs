@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reject</name>
+   <tag></tag>
+   <elementGuidId>d2e31d99-7fa5-4c44-805f-c8c76f33b34c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Reject&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f64aa5b2-0d1f-4d8e-b624-6924efec9c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_neutral</value>
+      <webElementGuid>eccfb067-6555-4782-a0f6-75eff747e84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reject</value>
+      <webElementGuid>8b82b48e-aaf5-489a-9501-ebfcfbe2ff9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;slds-no-wcag&quot;]/body[@class=&quot;null comm-page-detail-a5k&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;body isPageWidthFixed-true&quot;]/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded comm-content-header comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/c-emp-leave-approval[1]/div[@class=&quot;slds-page-header&quot;]/div[@class=&quot;slds-page-header__row&quot;]/div[@class=&quot;slds-page-header__col-actions&quot;]/div[@class=&quot;slds-page-header__controls&quot;]/div[@class=&quot;slds-page-header__control&quot;]/ul[@class=&quot;slds-button-group-list&quot;]/li[1]/button[@class=&quot;slds-button slds-button_neutral&quot;]</value>
+      <webElementGuid>389a44b2-bd0b-4e1f-af99-d3f8d3aec5ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/following::button[1]</value>
+      <webElementGuid>20dd4bb0-e5b9-4aba-be48-1d442099e183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EL-4320'])[1]/following::button[2]</value>
+      <webElementGuid>72ab00ed-34c5-4490-aa71-2dd498aefcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::button[1]</value>
+      <webElementGuid>7d102c0d-8393-4e14-a3bb-d6be030e2692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related'])[1]/preceding::button[1]</value>
+      <webElementGuid>c39813e2-8bf9-478a-991a-697bfbac9860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reject']/parent::*</value>
+      <webElementGuid>88cefad2-4563-4570-b282-cc9ea95700d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>ae5c40d8-c808-42cc-b9c4-fba6538a025b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>0d700bd1-f8c4-4268-9611-864627d3e615</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
