@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Employee Leave/span_Pending Approvals",
+      "brokenLocator": "//ul[@id\u003d\u0027virtualAutocompleteListbox_cdaf1c0cec65a\u0027]/li[7]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Selected\u0027])[6]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241127_173720/Login_Suite/Employee_Manager_Session/20241127_173720/Object Repository/Page_Employee Leave/span_Pending Approvals_neighbor.png"
+    }
+  ]
+}
