@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Employee_Manager_Session,Chrome 131.0.0.0,Employee_Manager_Session,,29-11-2024 10:24:49,29-11-2024 10:26:48,1m - 59.097s,PASSED
+,,,,,,,
+Test Cases/Login/Manager,Chrome 131.0.0.0,Manager Test Case,@login,29-11-2024 10:24:49,29-11-2024 10:26:48,1m - 58.406s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,29-11-2024 10:24:50,29-11-2024 10:25:22,31.575s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,29-11-2024 10:25:22,29-11-2024 10:25:23,0.937s,PASSED
+navigateToUrl(URL),Chrome 131.0.0.0,,,29-11-2024 10:25:23,29-11-2024 10:25:35,12.647s,PASSED
+"setText(findTestObject(""Page_Login/input_Refresh_2050""), Username)",Chrome 131.0.0.0,,,29-11-2024 10:25:35,29-11-2024 10:25:37,1.472s,PASSED
+"setEncryptedText(findTestObject(""Page_Login/input_Username_2180""), Password)",Chrome 131.0.0.0,,,29-11-2024 10:25:37,29-11-2024 10:25:38,0.782s,PASSED
+"click(findTestObject(""Page_Login/span_Log in""))",Chrome 131.0.0.0,,,29-11-2024 10:25:38,29-11-2024 10:25:38,0.626s,PASSED
+delay(1),Chrome 131.0.0.0,,,29-11-2024 10:25:38,29-11-2024 10:25:39,1.207s,PASSED
+"click(findTestObject(""Manager All Leave Object""))",Chrome 131.0.0.0,,,29-11-2024 10:25:39,29-11-2024 10:25:54,14.977s,PASSED
+"click(findTestObject(""Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030""))",Chrome 131.0.0.0,,,29-11-2024 10:25:54,29-11-2024 10:25:59,4.452s,PASSED
+"click(findTestObject(""Pending Approval Object""))",Chrome 131.0.0.0,,,29-11-2024 10:25:59,29-11-2024 10:26:01,2.352s,PASSED
+"click(findTestObject(""Page_Employee Leave/a_SortEmployee Leave Name""))",Chrome 131.0.0.0,,,29-11-2024 10:26:01,29-11-2024 10:26:03,2.118s,PASSED
+"click(findTestObject(""Get_Manager_First_Row_Id""))",Chrome 131.0.0.0,,,29-11-2024 10:26:03,29-11-2024 10:26:05,2.080s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave EL-4320/button_Reject""))",Chrome 131.0.0.0,,,29-11-2024 10:26:05,29-11-2024 10:26:10,4.355s,PASSED
+"setText(findTestObject(""Reject Text Message""), ""No Leaves Only Work"")",Chrome 131.0.0.0,,,29-11-2024 10:26:10,29-11-2024 10:26:11,1.087s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave EL-4320/button_OK""))",Chrome 131.0.0.0,,,29-11-2024 10:26:11,29-11-2024 10:26:11,0.499s,PASSED
+delay(3),Chrome 131.0.0.0,,,29-11-2024 10:26:11,29-11-2024 10:26:14,3.022s,PASSED
+"click(findTestObject(""Manager All Leave Object""))",Chrome 131.0.0.0,,,29-11-2024 10:26:14,29-11-2024 10:26:21,6.245s,PASSED
+delay(1),Chrome 131.0.0.0,,,29-11-2024 10:26:21,29-11-2024 10:26:22,1.021s,PASSED
+"click(findTestObject(""Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030""))",Chrome 131.0.0.0,,,29-11-2024 10:26:22,29-11-2024 10:26:27,5.472s,PASSED
+"click(findTestObject(""All Rejected List View""))",Chrome 131.0.0.0,,,29-11-2024 10:26:27,29-11-2024 10:26:29,2.193s,PASSED
+"click(findTestObject(""Page_Employee Leave/a_SortEmployee Leave Name""))",Chrome 131.0.0.0,,,29-11-2024 10:26:29,29-11-2024 10:26:31,1.567s,PASSED
+"click(findTestObject(""Get_Manager_First_Row_Id""))",Chrome 131.0.0.0,,,29-11-2024 10:26:31,29-11-2024 10:26:33,1.853s,PASSED
+"verifyElementText(findTestObject(""Status Rejected""), ""Rejected"")",Chrome 131.0.0.0,,,29-11-2024 10:26:33,29-11-2024 10:26:35,2.268s,PASSED
+delay(1),Chrome 131.0.0.0,,,29-11-2024 10:26:35,29-11-2024 10:26:36,1.017s,PASSED
+"click(findTestObject(""Logout Object""))",Chrome 131.0.0.0,,,29-11-2024 10:26:36,29-11-2024 10:26:37,0.525s,PASSED
+"click(findTestObject(""Logout button""))",Chrome 131.0.0.0,,,29-11-2024 10:26:37,29-11-2024 10:26:37,0.676s,PASSED
+delay(1),Chrome 131.0.0.0,,,29-11-2024 10:26:37,29-11-2024 10:26:38,1.024s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,29-11-2024 10:26:38,29-11-2024 10:26:48,9.423s,PASSED

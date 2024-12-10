@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Employee_Manager_Session" time="137.358" tests="1" failures="0" errors="0">
+   <testsuite name="Employee_Manager_Session" tests="1" failures="0" errors="0" time="137.358" skipped="0" timestamp="29-11-2024T14:47:33" hostname="mukesh.jain_crmit - 192.168.5.137" id="Test Suites/Login_Suite/Employee_Manager_Session">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\mukesh.jain_crmit\\git\\Aviskaar_Attendence_Management\\Reports\\20241129_144707\\Login_Suite\\Employee_Manager_Session\\20241129_144707"/>
+         <property name="logFiles" value="C:\\Users\\mukesh.jain_crmit\\git\\Aviskaar_Attendence_Management\\Reports\\20241129_144707\\Login_Suite\\Employee_Manager_Session\\20241129_144707\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mukesh.jain_crmit - 192.168.5.137"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.5.137"/>
+         <property name="sessionId" value="ace0e64fdb80d9184cf552d81ebb7b97"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/Manager" time="136.4" classname="Test Cases/Login/Manager" status="PASSED">
+         <system-out><![CDATA[29-11-2024T14:47:34 - [TEST_CASE][PASSED] - Test Cases/Login/Manager: Test Cases/Login/Manager
+
+29-11-2024T14:47:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+29-11-2024T14:47:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+29-11-2024T14:47:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+29-11-2024T14:48:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+29-11-2024T14:48:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+29-11-2024T14:48:21 - [MESSAGE][PASSED] - Current window maximized
+
+29-11-2024T14:48:21 - [TEST_STEP][PASSED] - navigateToUrl(URL): Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/' successfully
+
+29-11-2024T14:48:31 - [MESSAGE][PASSED] - Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/' successfully
+
+29-11-2024T14:48:31 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Login/input_Refresh_2050"), Username): Text 'manjunath.batti@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Refresh_2050'
+
+29-11-2024T14:48:33 - [MESSAGE][PASSED] - Text 'manjunath.batti@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Refresh_2050'
+
+29-11-2024T14:48:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Login/input_Username_2180"), Password): Text ****** has been set on object 'Object Repository/Page_Login/input_Username_2180'
+
+29-11-2024T14:48:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_Username_2180'
+
+29-11-2024T14:48:34 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/span_Log in")): Object: 'Object Repository/Page_Login/span_Log in' is clicked on
+
+29-11-2024T14:48:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/span_Log in' is clicked on
+
+29-11-2024T14:48:35 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+29-11-2024T14:48:36 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+29-11-2024T14:48:36 - [TEST_STEP][PASSED] - click(findTestObject("Manager All Leave Object")): Object: 'Object Repository/Manager All Leave Object' is clicked on
+
+29-11-2024T14:48:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Manager All Leave Object' is clicked on
+
+29-11-2024T14:48:51 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030")): Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+29-11-2024T14:48:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+29-11-2024T14:48:55 - [TEST_STEP][PASSED] - click(findTestObject("Pending Approval Object")): Object: 'Object Repository/Pending Approval Object' is clicked on
+
+29-11-2024T14:48:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Pending Approval Object' is clicked on
+
+29-11-2024T14:48:56 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/a_SortEmployee Leave Name")): Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+29-11-2024T14:48:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+29-11-2024T14:48:59 - [TEST_STEP][PASSED] - click(findTestObject("Get_Manager_First_Row_Id")): Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+29-11-2024T14:49:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+29-11-2024T14:49:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave EL-4320/button_Reject")): Object: 'Object Repository/Page_Employee Leave EL-4320/button_Reject' is clicked on
+
+29-11-2024T14:49:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave EL-4320/button_Reject' is clicked on
+
+29-11-2024T14:49:07 - [TEST_STEP][PASSED] - setText(findTestObject("Reject Text Message"), "No Leaves Only Work"): Text 'No Leaves Only Work' is set on object 'Object Repository/Reject Text Message'
+
+29-11-2024T14:49:08 - [MESSAGE][PASSED] - Text 'No Leaves Only Work' is set on object 'Object Repository/Reject Text Message'
+
+29-11-2024T14:49:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave EL-4320/button_OK")): Object: 'Object Repository/Page_Employee Leave EL-4320/button_OK' is clicked on
+
+29-11-2024T14:49:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave EL-4320/button_OK' is clicked on
+
+29-11-2024T14:49:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+29-11-2024T14:49:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+29-11-2024T14:49:12 - [TEST_STEP][PASSED] - click(findTestObject("Manager All Leave Object")): Object: 'Object Repository/Manager All Leave Object' is clicked on
+
+29-11-2024T14:49:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Manager All Leave Object' is clicked on
+
+29-11-2024T14:49:19 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+29-11-2024T14:49:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+29-11-2024T14:49:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030")): Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+29-11-2024T14:49:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/svg_My Applied Leave_slds-icon slds-icon-te_a4c030' is clicked on
+
+29-11-2024T14:49:24 - [TEST_STEP][PASSED] - click(findTestObject("All Rejected List View")): Object: 'Object Repository/All Rejected List View' is clicked on
+
+29-11-2024T14:49:26 - [MESSAGE][PASSED] - Object: 'Object Repository/All Rejected List View' is clicked on
+
+29-11-2024T14:49:26 - [TEST_STEP][PASSED] - click(findTestObject("Page_Employee Leave/a_SortEmployee Leave Name")): Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+29-11-2024T14:49:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Employee Leave/a_SortEmployee Leave Name' is clicked on
+
+29-11-2024T14:49:28 - [TEST_STEP][PASSED] - click(findTestObject("Get_Manager_First_Row_Id")): Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+29-11-2024T14:49:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Get_Manager_First_Row_Id' is clicked on
+
+29-11-2024T14:49:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Status Rejected"), "Rejected"): Actual text and expected text of test object 'Object Repository/Status Rejected' are matched.
+
+29-11-2024T14:49:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Status Rejected' are matched.
+
+29-11-2024T14:49:32 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+29-11-2024T14:49:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+29-11-2024T14:49:33 - [TEST_STEP][PASSED] - click(findTestObject("Logout Object")): Object: 'Object Repository/Logout Object' is clicked on
+
+29-11-2024T14:49:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Logout Object' is clicked on
+
+29-11-2024T14:49:33 - [TEST_STEP][PASSED] - click(findTestObject("Logout button")): Object: 'Object Repository/Logout button' is clicked on
+
+29-11-2024T14:49:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Logout button' is clicked on
+
+29-11-2024T14:49:34 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+29-11-2024T14:49:35 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+29-11-2024T14:49:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+29-11-2024T14:49:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[29-11-2024T14:47:33 - [TEST_SUITE][PASSED] - Employee_Manager_Session: Test Cases/Login/Manager]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
